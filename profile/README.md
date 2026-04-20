@@ -1,12 +1,7 @@
-## Hi there 👋
+# Mace Consult
 
-<!--
+We help clients deliver **certainty** on the world’s most impactful **infrastructure and capital development programmes**—from advisory and commercial management to PMO, planning, and programme leadership.
 
-**Here are some ideas to get you started:**
+On **5 March 2026** we launched as a **standalone company**, operating independently of Mace Group (including Mace Construct), after completing our carve-out.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[**macegroup.com** — Mace Consult](https://www.macegroup.com/?choice=0)
